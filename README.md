@@ -4,7 +4,7 @@
 
 **Organizers: Jaime Elguero, Santiago Gil, Borja Serra**
 
-Welcome to first hackathon of 2021! We hope that you will enjoy this activity as much as possible. Today's goal is learning the fundamentals of Reinforcement Learning (RL). You may already tackled this kind of problems, then you will have more posibilities to be the hackthon champion! To the rest, it does not matter if you have zero experience about the topic. We will guide you through this amazing journey about learning new learning techniques. :trollface:
+Welcome to first Ing Analytics Hub hackathon of 2021! We hope that you will enjoy this activity as we expect. Today's goal is to learn the fundamentals of Reinforcement Learning (RL). You may already have tackled this kind of problems, then you will have more posibilities to be the hackthon champion! To the rest, it does not matter if you have zero experience about the topic. We will guide you through this amazing journey about learning new learning techniques. :trollface:
 
 ### Schedule
 
