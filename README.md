@@ -1,6 +1,6 @@
 ## ING MAD HUB Hackathon 2101 :space_invader:
 
-### Learning Fundamentals
+### Reinforcement Learning Fundamentals
 
 **Organizers: Jaime Elguero, Santiago Gil, Borja Serra**
 
