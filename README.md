@@ -14,3 +14,7 @@ Welcome to first Ing Analytics Hub hackathon of 2021! We hope that you will enjo
 3. 13.00 to 14.00 - Lunch
 4. 14.00 to 15.15 - Action
 5. 15.15 to 16.00 - Wrap-up
+
+### Goals
+
+- focus on one algorithm and understand well (don't do many shallowly)
