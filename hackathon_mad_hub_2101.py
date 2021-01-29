@@ -22,9 +22,14 @@ def post_score(team, metrics):
         print("'Team' should be a string!")
         return
 
-    score_avg = sum(score)/len(score)
-    success_avg = sum(successful)/len(successful)
-    reward_avg = sum(ave_reward_list)/sum(ave_reward_list)
+    try:
+        score_avg = sum(score)/len(score)
+        success_avg = sum(successful)/len(successful)
+        reward_avg = sum(ave_reward_list)/sum(ave_reward_list)
+    except Exception:
+        score_avg = 0
+        success_avg = 0
+        reward_avg = 0
 
     score_url = "https://hackathon-ing-mad-hub-2101.herokuapp.com/score"
     score_query = "?team={}&score={}&successful={}&reward={}"
